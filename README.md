@@ -17,5 +17,6 @@ Suggestion
 HTML
 Suggestion
 1. I have added lang="en" to <html> tag.  This was not originally included as there was not a requirement to edit the HTML code.
-2. I have added a max value for height & width.  I also researched how to stop the user entering a value higher than max value.  The code for the onKeyUp was from stackoverflow: https://stackoverflow.com/questions/8354975/how-can-i-limit-possible-inputs-in-a-html5-number-element
+2. I have added a max value for height & width.  I also researched how to stop the user entering a value higher than max value.  The code for the onKeyUp was from stackoverflow: https://stackoverflow.com/questions/8354975/how-can-i-limit-possible-inputs-in-a-html5-number-element.  
+  I have also reformatted the <input> tag for the height & width, so it is easier to read in the HTML, by putting each attribute on a new line.
   
